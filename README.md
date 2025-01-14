@@ -1,0 +1,4 @@
+
+# Sipariş İşlemleri
+
+Sipariş Kayıtları form ekranında Sipariş ekle ve Stok Kart Listele butonları ile fonksiyonları     Stok Kart Form Ekranında Stok kartlarının kayıt ve güncelleme işlemleri ile listelenip görüntülenme işlemleri     Sipariş Girişi Ekranında Evrak Numarası ve Sipariş Tarihi ile oluşturulacak sipariş satırlarının hücrelerinde veri girişi, enter ile hücre geçişleri, satır ekleme ve grid içerisindeki satırlara ait toplam tutarın gösterilmesi fonksiyonlarının kaydedilip tekrar evrakno girilerek çağırılması işlemleri     Sipariş Kayıtları form ekranında kayıtlı sipariş evrakların listelenerek (Satır detayları değil, evrak no ve tarihi bilgileri ve evrak tutarları şeklinde) seçili satır üzerinde çift tıklama yöntemi ile sipariş giriş evrağına verileri ile birlikte tekrar ulaşabilmeyi  sağlayan  C# Masaüstü uygulaması
